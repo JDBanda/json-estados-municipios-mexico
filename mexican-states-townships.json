@@ -523,7 +523,8 @@
         "key": "GRO"
     },
     {
-        "Hidalgo": [
+        "state": "Hidalgo",
+        "township": [
             "Acatlán",
             "Acaxochitlán",
             "Actopan",
