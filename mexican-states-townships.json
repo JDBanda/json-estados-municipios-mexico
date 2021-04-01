@@ -56,7 +56,8 @@
         "key": "CMP"
     },
     {
-        "Coahuila de Zaragoza": [
+        "state": "Coahuila de Zaragoza",
+        "township": "Coahuila de Zaragoza": [
             "Abasolo",
             "Acuña",
             "Allende",
@@ -96,7 +97,7 @@
             "Villa Unión",
             "Zaragoza"
         ],
-        "clave": "COA"
+        "key": "COA"
     },
     {
         "state": "Colima",
@@ -1116,7 +1117,8 @@
         "key": "NL"
     },
     {
-        "Oaxaca": [
+        "state": "Oaxaca",
+        "township": [
             "Abejones",
             "Acatlán de Pérez Figueroa",
             "Asunción Cacalotepec",
